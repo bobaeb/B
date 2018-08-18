@@ -11,7 +11,7 @@ module.exports = options => ({
     {
       // Compile into js/build.js
       path: path.resolve(process.cwd(), 'build'),
-      publicPath: '/structor-experiment/',
+      publicPath: '/B',
     },
     options.output
   ), // Merge with env dependent settings

@@ -6,8 +6,8 @@ main() {
   deploy_branch=${GIT_DEPLOY_BRANCH:-gh-pages}
 
   #if no user identity is already set in the current git environment, use this:
-  default_username=${GIT_DEPLOY_USERNAME:-ruucm-working}
-  default_email=${GIT_DEPLOY_EMAIL:-ruucm.a@gmail.com}
+  default_username=${GIT_DEPLOY_USERNAME:-bobaeb}
+  default_email=${GIT_DEPLOY_EMAIL:-panzz7876@naver.com}
 
   #repository to deploy to. must be readable and writable.
   repo=${GIT_DEPLOY_REPO:-git@github.com:ruucm-working/structor-experiment.git}

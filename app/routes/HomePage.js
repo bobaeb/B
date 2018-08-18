@@ -31,7 +31,7 @@ class HomePage extends Component {
                 color: "#4a90e2"
               }}
             >
-              Hello Colorful World 🖍
+              Hello
             </span>
           </div>
         </div>
